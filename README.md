@@ -54,7 +54,7 @@ The game follows the basic rules of Tic-Tac-Toe, where two players take turns ma
 
     ```bash
     git clone https://github.com/djlord-it/tic-tac-toe.git
-    cd tic-tac-toe
+    cd ImpossibleTicTacToe
     ```
 
 2. **Compile the project:**
